@@ -1,4 +1,4 @@
-You can watch the project at:
+# Project URL
 https://recipe-book-face1.firebaseapp.com/
 
 # MyLearnAngularProject
